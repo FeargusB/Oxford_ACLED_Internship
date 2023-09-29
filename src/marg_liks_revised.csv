@@ -1,0 +1,33 @@
+,Event,Division,Logistic,Logistic-ignore zero,Discretisation,Cumulative,Null,Preferred Model,Evidence
+0,Battles,Barisal,-25.96,-21.89,-25.67,-21.1,-21.45,Cumulative,0.34
+1,Battles,Chittagong,-179.77,-151.34,-170.63,-153.95,-159.53,Logistic-ignore zero,2.6
+2,Battles,Dhaka,-163.88,-147.27,-202.85,-145.69,-146.7,Cumulative,1.01
+3,Battles,Khulna,-151.07,-137.82,-206.3,-136.26,-139.19,Cumulative,1.56
+4,Battles,Mymensingh,-37.76,-30.12,-29.9,-31.03,-31.5,Discretisation,0.21
+5,Battles,Rajshahi,-119.69,-106.91,-145.32,-106.4,-107.03,Cumulative,0.51
+6,Battles,Rangpur,-51.37,-44.03,-53.48,-44.05,-44.47,Logistic-ignore zero,0.02
+7,Battles,Sylhet,-107.83,-94.6,-113.01,-94.63,-96.0,Logistic-ignore zero,0.03
+8,Explosions/Remote violence,Barisal,-0.03,-1.01,-0.89,-0.88,-0.88,Logistic,0.85
+9,Explosions/Remote violence,Chittagong,-19.34,-13.65,-13.92,-14.66,-15.25,Logistic-ignore zero,0.27
+10,Explosions/Remote violence,Dhaka,-48.28,-30.88,-41.44,-34.37,-40.17,Logistic-ignore zero,3.49
+11,Explosions/Remote violence,Khulna,-44.1,-33.35,-43.04,-34.87,-36.48,Logistic-ignore zero,1.52
+12,Explosions/Remote violence,Mymensingh,-0.01,-0.57,-0.54,-0.52,-0.54,Logistic,0.51
+13,Explosions/Remote violence,Rajshahi,-16.07,-16.2,-16.0,-15.17,-15.21,Cumulative,0.04
+14,Explosions/Remote violence,Rangpur,-6.84,-2.2,-2.23,-2.25,-2.24,Logistic-ignore zero,0.03
+15,Explosions/Remote violence,Sylhet,-6.83,-2.2,-2.25,-2.24,-2.24,Logistic-ignore zero,0.04
+16,Riots,Barisal,-133.99,-121.34,-197.09,-125.56,-138.53,Logistic-ignore zero,4.22
+17,Riots,Chittagong,-293.36,-281.61,-874.81,-286.59,-326.78,Logistic-ignore zero,4.98
+18,Riots,Dhaka,-346.26,-338.66,-1480.86,-352.03,-419.42,Logistic-ignore zero,7.6
+19,Riots,Khulna,-277.24,-255.04,-638.46,-270.92,-315.79,Logistic-ignore zero,15.88
+20,Riots,Mymensingh,-138.83,-101.49,-177.64,-116.74,-138.16,Logistic-ignore zero,15.25
+21,Riots,Rajshahi,-247.79,-232.1,-754.01,-240.01,-281.56,Logistic-ignore zero,7.91
+22,Riots,Rangpur,-203.16,-182.25,-331.46,-185.44,-196.92,Logistic-ignore zero,3.2
+23,Riots,Sylhet,-210.19,-191.7,-347.46,-193.62,-204.67,Logistic-ignore zero,1.91
+24,Violence against civilians,Barisal,-92.56,-78.8,-92.22,-78.82,-79.45,Logistic-ignore zero,0.02
+25,Violence against civilians,Chittagong,-181.04,-163.88,-213.96,-162.96,-163.56,Cumulative,0.6
+26,Violence against civilians,Dhaka,-207.18,-189.44,-260.29,-188.17,-189.19,Cumulative,1.02
+27,Violence against civilians,Khulna,-222.01,-181.77,-230.67,-188.77,-199.52,Logistic-ignore zero,7.0
+28,Violence against civilians,Mymensingh,-51.27,-44.41,-48.7,-44.42,-44.61,Logistic-ignore zero,0.02
+29,Violence against civilians,Rajshahi,-186.53,-167.83,-219.29,-167.34,-168.14,Cumulative,0.48
+30,Violence against civilians,Rangpur,-153.34,-132.87,-150.88,-132.17,-132.75,Cumulative,0.58
+31,Violence against civilians,Sylhet,-106.36,-94.61,-107.77,-94.18,-94.67,Cumulative,0.42
